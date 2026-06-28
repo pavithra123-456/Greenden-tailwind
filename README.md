@@ -42,6 +42,3 @@
 -Thank you for taking the time to visit this repository. I hope you found this project informative and useful.
  Happy Coding!
 
-## License
-
-This project is intended for educational and learning purposes.
