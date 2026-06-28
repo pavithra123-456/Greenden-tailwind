@@ -32,7 +32,8 @@
 - Deploy the application using GitHub Pages or Vercel
  
 ## visi my project 
-- Github Repository:
+
+- Github Repository: https://pavithra123-456.github.io/Greenden-tailwind/
      
 
 ## Finally
