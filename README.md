@@ -31,7 +31,7 @@
 - Enhance accessibility and performance
 - Deploy the application using GitHub Pages or Vercel
  
-## visi my project 
+## visit my project 
 
 - Github Repository: https://pavithra123-456.github.io/Greenden-tailwind/
      
